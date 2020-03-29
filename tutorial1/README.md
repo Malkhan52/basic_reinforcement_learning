@@ -269,6 +269,6 @@ and now we present the same player after **150 000 generations** of reinforcemen
 
 ```bash
 git clone https://github.com/vmayoral/basic_reinforcement_learning
-cd basic_reinforcement_learning
-python tutorial1/egoMouseLook.py
+cd basic_reinforcement_learning/tutorial1
+python egoMouseLook.py
 ```
